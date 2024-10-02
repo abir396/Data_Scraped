@@ -1,2 +1,2 @@
 # Data_Scraped
-Scraped any websites data
+Scraped any websites data using Python & Selenium
